@@ -1,0 +1,16 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1300px 600px;
+}
+
+#sign {
+  width: 300px;
+}
+
+.btn {
+  width: 100px;
+  position: relative;
+  top: 50%;
+  left: 45%;
+}
